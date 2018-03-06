@@ -1,0 +1,12 @@
+C:\work\Directum\TEST.WINFORMS\bin\Debug\TEST.WINFORMS.exe.config
+C:\work\Directum\TEST.WINFORMS\bin\Debug\TEST.DB.mdf
+C:\work\Directum\TEST.WINFORMS\bin\Debug\TEST.WINFORMS.exe
+C:\work\Directum\TEST.WINFORMS\bin\Debug\TEST.WINFORMS.pdb
+C:\work\Directum\TEST.WINFORMS\obj\Debug\TEST.WINFORMS.csprojResolveAssemblyReference.cache
+C:\work\Directum\TEST.WINFORMS\obj\Debug\TEST.WINFORMS.Properties.Resources.resources
+C:\work\Directum\TEST.WINFORMS\obj\Debug\TEST.WINFORMS.csproj.GenerateResource.Cache
+C:\work\Directum\TEST.WINFORMS\obj\Debug\TEST.WINFORMS.exe
+C:\work\Directum\TEST.WINFORMS\obj\Debug\TEST.WINFORMS.pdb
+C:\work\Directum\TEST.WINFORMS\obj\Debug\TEST.WINFORMS.jobscard.resources
+C:\work\Directum\TEST.WINFORMS\bin\Debug\log4net.dll
+C:\work\Directum\TEST.WINFORMS\bin\Debug\log4net.xml

@@ -1,0 +1,6 @@
+C:\work\Directum\TEST\meeting\bin\Debug\meeting.exe.config
+C:\work\Directum\TEST\meeting\bin\Debug\meeting.exe
+C:\work\Directum\TEST\meeting\bin\Debug\meeting.pdb
+C:\work\Directum\TEST\meeting\obj\Debug\meeting.exe
+C:\work\Directum\TEST\meeting\obj\Debug\meeting.pdb
+C:\work\Directum\TEST\meeting\obj\Debug\meeting.csprojResolveAssemblyReference.cache
