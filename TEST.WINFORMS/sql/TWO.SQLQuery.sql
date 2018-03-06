@@ -1,4 +1,4 @@
-﻿Select p.Name as prod, e.Surname, e.Name, SUM(s.Quantity) as kol_prod, sum(a.Quantity) as obsh_kol,  SUM(s.Quantity)/(Select sum(s.Quantity) From dbo.Sales as s JOIN dbo.Products as p ON s.IDProd=p.Id WHERE s.Date between '2013/10/01' and '2013/10/07' and p.Name=)*100 as procent
+﻿Select p.Name as prod, e.Surname, e.Name, SUM(s.Quantity) as kol_prod, sum(a.Quantity) as obsh_kol,  SUM(s.Quantity)/(Select sum(s.Quantity) From dbo.Sales as s JOIN dbo.Products as p ON s.IDProd=p.Id WHERE s.Date between '2013/10/01' and '2013/10/07')*100 as procent
 From dbo.Sales As s 
 Join dbo.Sellers As e ON s.IDSel=e.Id
 Join dbo.Products As p ON s.IDProd=p.Id
